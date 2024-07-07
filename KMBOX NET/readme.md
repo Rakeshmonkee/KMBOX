@@ -4,7 +4,7 @@
 
 
 ## Firmware
-All firmware is from [KMBOX TOP](http://www.kmbox.top/Net_firmware.html). Be sure to check this website
+All firmware is from [KMBOX TOP](http://www.kmbox.top/Net_firmware.html). Be sure to check this website for the latest firmware
 
 
 | Date       |  Name                                     |
@@ -15,3 +15,5 @@ All firmware is from [KMBOX TOP](http://www.kmbox.top/Net_firmware.html). Be sur
 | 2024-04-24 |  [kmboxNet firmware 20240424_13h23m15s.bin](http://www.kmbox.top/wiki_doc/firmware/kmboxNet/history/kmboxNet%E5%9B%BA%E4%BB%B620240424_13h23m15s.bin) |
 | 2024-04-19 |  [kmboxNet firmware 20240419_10h17m35s.bin](http://www.kmbox.top/wiki_doc/firmware/kmboxNet/history/kmboxNet%E5%9B%BA%E4%BB%B620240419_10h17m35s.bin) |
 | 2024-04-15 |  [kmboxNet firmware 20240415_15h51m24s.bin](http://www.kmbox.top/wiki_doc/firmware/kmboxNet/history/kmboxNet%E5%9B%BA%E4%BB%B620240415_15h51m24s.bin) |
+
+last updated: 07/07/2024
