@@ -4,8 +4,6 @@
 
 
 ## Firmware
-All firmware is from [KMBOX TOP](http://www.kmbox.top/Net_firmware.html). Be sure to check this website for the latest firmware
-
 
 | Date       |  Name                                     |
 |------------|-------------------------------------------|
