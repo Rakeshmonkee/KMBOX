@@ -96,4 +96,18 @@ Once the flash has been successful, the screen on the KMBox should restart and s
 
 To test that the KMBox is working successfully, run the KMBoxBTest.py file above. input the COM port number and you should see your mouse move in a positive and negative direction on the x and y axis.
 
+## Spoofing
+
+On uPyCraft click on Tools > hover over serials > click on the COM of your kmbox.
+
+This should then make the device have a drop down in the left side of the GUI. Open boot.py
+
+Under Boot.py, scroll down to device.VID and device.PID. both of the lines should be commented out.
+
+Remove the # symbol from the start of the line, this will un-comment out the line.
+
+To find your Mouse VID and PID, go to Device Manager and look under Human Interface Device or Mouse and other pointers. right click your device and click properties. Under property, select Hardware IDs
+
+![image](https://github.com/user-attachments/assets/4c692527-66d7-4ed7-b897-0f727b783c1d)
+
 
