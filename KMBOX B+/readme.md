@@ -102,9 +102,15 @@ On uPyCraft click on Tools > hover over serials > click on the COM of your kmbox
 
 This should then make the device have a drop down in the left side of the GUI. Open boot.py
 
+![image](https://github.com/user-attachments/assets/9c44dce4-3a90-435e-ab43-d68d96c4b3f2)
+
+
 Under Boot.py, scroll down to device.VID and device.PID. both of the lines should be commented out.
 
 Remove the # symbol from the start of the line, this will un-comment out the line.
+
+![image](https://github.com/user-attachments/assets/3b3681de-d272-4666-925d-f4f4af28487b)
+
 
 To find your Mouse VID and PID, go to Device Manager and look under Human Interface Device or Mouse and other pointers. right click your device and click properties. Under property, select Hardware IDs
 
