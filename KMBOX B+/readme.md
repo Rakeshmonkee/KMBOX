@@ -2,7 +2,7 @@
 
 ## Content
 - [Firmware]()
-- [Tutorial]()
+- [Setting Up](https://github.com/Rakeshmonkee/KMBOX/blob/main/KMBOX%20B+/readme.md#setting-up)
 - [Flashing]()
 - [Spoofing]()
 
