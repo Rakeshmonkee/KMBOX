@@ -89,7 +89,7 @@ To test that the KMBox is working successfully, run the KMBoxBTest.py file above
 > 
 > Unless you are from china and have Chinese encoding on your computer, I do not recommend downloading the latest firmware version (20240701) as you will have errors. If you install this firmware, your KMBox screen will tell you to activate the firmware. When trying to activate the firmare using the activation program, an error saying "The softwares file name had been changed" this is due to encoding issues with the file name. Follow below if you have chinese encoding and the file name appears properly, not in a random encoded format.
 
-Download []KMBOXB Activator(http://www.kmbox.top/tools/kmboxBcheck.zip)
+Download [KMBOXB Activator](http://www.kmbox.top/tools/kmboxBcheck.zip)
 
 After running the program, input the COM port number, and hit the activate button, your kmbox should then activate.
 
