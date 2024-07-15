@@ -105,18 +105,16 @@ This should then make the device have a drop down in the left side of the GUI. O
 ![image](https://github.com/user-attachments/assets/9c44dce4-3a90-435e-ab43-d68d96c4b3f2)
 
 
-Under Boot.py, scroll down to device.VID and device.PID. both of the lines should be commented out.
+Under Boot.py remove the # symbol from lines 54, 56, and 58.
 
-Remove the # symbol from the start of the line, this will un-comment out the line.
-
-![image](https://github.com/user-attachments/assets/3b3681de-d272-4666-925d-f4f4af28487b)
+![image](https://github.com/user-attachments/assets/877861ac-26a7-4e4e-a2d4-46630688ceeb)
 
 
 To find your Mouse VID and PID, go to Device Manager and look under Human Interface Device or Mouse and other pointers. Right-click your device and click properties. Under property, select Hardware IDs
 
 ![image](https://github.com/user-attachments/assets/4c692527-66d7-4ed7-b897-0f727b783c1d)
 
-After changing the VID and PID, go to tools, and click Download. After downloading, unplug your KMBox completely, and plug it back in to view the changes.
+After changing the VID and PID within boot.py, go to tools, and click Download. After downloading, unplug your KMBox completely, and plug it back in to view the changes.
 
 To see if your KMBox has been spoofed correctly, you can go to Device Manager and find a USB Composite Device listed under Universal Serial Bus Controllers.
 
