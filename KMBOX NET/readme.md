@@ -1,7 +1,7 @@
 # KMBOX NET
 
 ## Content
-- [Firmware]()
+- [Firmware](https://github.com/Rakeshmonkee/KMBOX/tree/main/KMBOX%20NET#firmware)
 - [Setting up]()
 - [Flashing]()
 - [Spoofing]()
