@@ -112,8 +112,17 @@ Remove the # symbol from the start of the line, this will un-comment out the lin
 ![image](https://github.com/user-attachments/assets/3b3681de-d272-4666-925d-f4f4af28487b)
 
 
-To find your Mouse VID and PID, go to Device Manager and look under Human Interface Device or Mouse and other pointers. right click your device and click properties. Under property, select Hardware IDs
+To find your Mouse VID and PID, go to Device Manager and look under Human Interface Device or Mouse and other pointers. Right-click your device and click properties. Under property, select Hardware IDs
 
 ![image](https://github.com/user-attachments/assets/4c692527-66d7-4ed7-b897-0f727b783c1d)
 
-After chaning the VID and PID, go to tools, and click Download. After downloading, unplug your kmbox completely, and plug it back in to view the changes.
+After changing the VID and PID, go to tools, and click Download. After downloading, unplug your KMBox completely, and plug it back in to view the changes.
+
+To see if your KMBox has been spoofed correctly, you can go to Device Manager and find a USB Composite Device listed under Universal Serial Bus Controllers.
+
+Right click > properties > details > Hardware IDs
+
+You should then see the same VID and PID of your mouse
+
+![image](https://github.com/user-attachments/assets/7693ff96-7865-4e97-9600-973cdee88205)
+
