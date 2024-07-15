@@ -2,7 +2,7 @@
 
 ## Content
 - [Firmware]()
-- [Tutorial]()
+- [Setting up]()
 - [Flashing]()
 - [Spoofing]()
 
