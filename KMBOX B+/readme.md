@@ -99,7 +99,21 @@ Image showing the flashing
 
 Once the flash has been successful, the screen on the KMBox should restart and should display the latest firmware version on the bottom of the screen.
 
-To test that the KMBox is working successfully, run the KMBoxBTest.py file above. input the COM port number and you should see your mouse move in a positive and negative direction on the x and y axis.
+To test that the KMBox is working successfully, run the [KMBox_B_Test.py](https://github.com/Rakeshmonkee/KMBOX/blob/main/KMBOX%20B%2B/KMBox_B_Test.py). Input the COM port number and you should see your mouse move in a positive and negative direction on the x and y axis.
+
+Depending if you have installed the serial library before or not you will need to:
+
+1. Open command prompt as Admin
+2. Install the serial library via this prompt > `pip3 install serial` and `pip3 install pyserial`.
+
+After running the pip install command, this should install the serial module.
+
+I recommend running the test using PyCharm Community edition so you can run the Python script in a virtual environment. You will need to select the Python interpreter if it is your first time installing it. 
+
+To install the serial and pyserial library, click on Python Packages, and search for serial, under PyPi repository, it should show serial and Pyserial, click on them and install.
+
+![image](https://github.com/user-attachments/assets/d0be4256-6309-4122-88af-52ce4637bf75)
+
 
 ## Spoofing
 
