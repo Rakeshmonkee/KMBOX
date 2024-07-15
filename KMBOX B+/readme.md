@@ -1,10 +1,10 @@
 # KMBOX B+ / Pro
 
 ## Content
-- [Firmware]()
+- [Firmware](https://github.com/Rakeshmonkee/KMBOX/blob/main/KMBOX%20B+/readme.md#firmware)
 - [Setting Up](https://github.com/Rakeshmonkee/KMBOX/blob/main/KMBOX%20B+/readme.md#setting-up)
-- [Flashing]()
-- [Spoofing]()
+- [Flashing](https://github.com/Rakeshmonkee/KMBOX/blob/main/KMBOX%20B+/readme.md#flashing)
+- [Spoofing](https://github.com/Rakeshmonkee/KMBOX/blob/main/KMBOX%20B+/readme.md#spoofing)
 
 
 ## Firmware
