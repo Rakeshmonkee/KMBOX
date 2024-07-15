@@ -116,4 +116,4 @@ To find your Mouse VID and PID, go to Device Manager and look under Human Interf
 
 ![image](https://github.com/user-attachments/assets/4c692527-66d7-4ed7-b897-0f727b783c1d)
 
-
+After chaning the VID and PID, go to tools, and click Download. After downloading, unplug your kmbox completely, and plug it back in to view the changes.
