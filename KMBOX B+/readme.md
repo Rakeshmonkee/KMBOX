@@ -29,7 +29,7 @@ last updated: 07/01/2024
 >After running the program, input the COM port number, and hit the activate button, your KMBox should then activate.
 
 
-> [!Notice]
+> [!Important]
 > 
 > The firmware I used was the 2024-5-16 as you do not need to you the KMBox activator app to activate the firmware.
 
