@@ -12,26 +12,10 @@
 
 | Date       |  Name                                     |
 |------------|-------------------------------------------|
-| Latest     |  [kmboxB+ quad-port firmware 20240701.bin](http://www.kmbox.top/wiki_doc/firmware/kmboxB/latest/kmboxB+20240701.bin) |
-| 2024-05-16 |  [	kmboxB+ firmware 20240516.bin](http://www.kmbox.top/wiki_doc/firmware/kmboxB/history/kmboxB+%E5%9B%BA%E4%BB%B620240516.bin) |
-| 2024-04-17 |  [kmboxB+ firmware 20240417.bin](http://www.kmbox.top/wiki_doc/firmware/kmboxB/history/kmboxB+%E5%9B%BA%E4%BB%B620240417.bin) |
+| Latest     |  [20240724.bin](https://gitee.com/ccironmgr/kmbox_resources/blob/master/firmware/bplus/latest/kmboxBpro%E5%9B%BA%E4%BB%B620240724.bin) |
 
-last updated: 07/01/2024
+last updated: 08/01/2024
 
-> [!Warning]
-> 
-> Unless you are from China and have Chinese encoding on your computer, I do not recommend downloading the latest firmware version (20240701) as you will have errors. If you install this firmware, your KMBox screen will tell you to activate the firmware. When trying to activate the firmware using the activation program, an error says "The software file name had been changed" this is due to encoding issues with the file name. Follow below if you have Chinese encoding and the file name appears properly, not in a random encoded format.
->
-> Only do this if you have flashed the latest firmware.
-> 
->Download [KMBOXB Activator](http://www.kmbox.top/tools/kmboxBcheck.zip)
-> 
->After running the program, input the COM port number, and hit the activate button, your KMBox should then activate.
-
-
-> [!Important]
-> 
-> The firmware I used was the 2024-5-16 as you do not need to you the KMBox activator app to activate the firmware.
 
 
 ## Setting up
