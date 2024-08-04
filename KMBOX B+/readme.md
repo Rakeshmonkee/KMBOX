@@ -38,7 +38,7 @@ The folder name should be called ```kmbox_resourcecs```. Navigate to `kmbox_reso
 
 ![image](https://github.com/user-attachments/assets/478dbd8a-f8bc-483c-b38a-311f252227e6)
 
-
+You can also find all the tools required to flash and spoof the Kmbox in the kmbox_resources folder for the bplus under `kmbox_resources/firmware/bplus/tools`.
 
 
 ## Setting up
