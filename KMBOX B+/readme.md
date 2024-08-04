@@ -16,6 +16,29 @@
 
 last updated: 08/01/2024
 
+### Obtaining firmware through the terminal
+
+If you don't want to make an account with gitee to download the kmbox firmware, there is an alternative using your terminal and git.
+
+if you have git installed, you can copy this link address: ```git clone https://gitee.com/ccironmgr/kmbox_resources.git``` ,and paste it into the terminal.
+
+![image](https://github.com/user-attachments/assets/884c07f1-60cb-4f41-a351-36f066f24573)
+
+Hit enter, and git clone information will be printer to the terminal.
+
+![image](https://github.com/user-attachments/assets/c5542587-da85-4849-bf57-77c7aeac3245)
+
+After it says `Resolving deltas: 100% (68/68), done.`, the clone has been successful.
+
+The location of the installation will be the directory the terminal is open in. If you git clone the url on ```C:\Users\User\Desktop```, the folder will be on your desktop.
+
+In my instance, the folder will be saved to the user directory `C:\Users\User` since that is where i did the git clone from.
+
+The folder name should be called ```kmbox_resourcecs```. Navigate to `kmbox_resources/firmware/bplus/latest`. You should see the latest firmware binary file called `kmboxBpro ... .bin` where `...` is the date.
+
+![image](https://github.com/user-attachments/assets/478dbd8a-f8bc-483c-b38a-311f252227e6)
+
+
 
 
 ## Setting up
